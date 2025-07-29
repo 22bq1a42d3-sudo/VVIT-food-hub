@@ -20,8 +20,9 @@
 ---
 
 ## 🗂 Project Structure
+```
 
-├── about.html 
+├── about.html
 ├── cart.html 
 ├── contact.html 
 ├── db.js 
@@ -50,12 +51,12 @@
 
 ### 1. Clone the Repository
 
-bash
+``` bash
 git clone https://github.com/22bq1a42d3-sudo/VVIT-food-hub.git
 cd web-development
 
 ### 2. Install Depedencies
-bash
+``` bash
 npm intall
 
 ### 3. Setup Environment
