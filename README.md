@@ -42,7 +42,7 @@
 ├── signup.html 
 ├── signup.js 
 ├── vars.env
-
+```
 
 
 ---
@@ -54,10 +54,12 @@
 ``` bash
 git clone https://github.com/22bq1a42d3-sudo/VVIT-food-hub.git
 cd web-development
+```
 
 ### 2. Install Depedencies
 ``` bash
 npm intall
+```
 
 ### 3. Setup Environment
 Create a .env or use vars.env for environment variables like Firebase config.
