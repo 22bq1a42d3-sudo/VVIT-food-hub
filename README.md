@@ -2,7 +2,7 @@
 
 *VVIT FOOD HUB* is an online food ordering website developed specifically for the cafeteria of Vasireddy Venkatadri Institute of Technology (VVIT). It enables students and staff to conveniently browse the menu, place orders, and manage their food cart online with a clean and responsive UI.
 
-> ⚡ Project link: [VVIT FOOD HUB GitHub Repo](https://github.com/22bq1a42d4/web-development)
+> ⚡ Project link: [VVIT FOOD HUB GitHub Repo](https://github.com/22bq1a42d3-sudo/VVIT-food-hub)
 
 ---
 
@@ -75,7 +75,7 @@ If hosted locally, open index.html with a live server (like VS Code's Live Serve
 <table> <tr> <td align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML5 </a> </td> <td align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br>CSS3 </a> </td> <td align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br>JavaScript </a> </td> <td align="center"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/><br>Firebase </a> </td> <td align="center"> <a href="https://www.npmjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm"/><br>npm </a> </td> <td align="center"> <a href="https://pages.github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub Pages"/><br>GitHub Pages </a> </td> </tr> </table>
 
 ## 🙋‍♂ Author
-<table> <tr> <td align="center"> <a href="https://github.com/22bq1a42d4" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/><br> <strong>Tejaswi Sangapu</strong><br> GitHub Profile </a> </td> </tr> <tr> <td align="center"> 🎓 Student @ VVIT </td> </tr> </table>
+<table> <tr> <td align="center"> <a href="https://github.com/22bq1a42d3-sudo" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/><br> <strong>Tejaswi Sangapu</strong><br> GitHub Profile </a> </td> </tr> <tr> <td align="center"> 🎓 Student @ VVIT </td> </tr> </table>
 
 ## 📬 Feedback & Support
 For feedback or questions, please use the feedback.html page in the project or raise an issue in this repo.
